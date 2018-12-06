@@ -1,0 +1,5 @@
+/Unidecode.AspNetCore/obj
+/Unidecode.AspNetCore/bin
+/.vs
+/Unidecode.AspNetCore.Tests/obj
+/Unidecode.AspNetCore.Tests/bin
